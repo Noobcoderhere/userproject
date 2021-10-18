@@ -1,0 +1,10 @@
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\bin\Debug\netcoreapp3.1\User.Domain.deps.json
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\bin\Debug\netcoreapp3.1\User.Domain.dll
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\bin\Debug\netcoreapp3.1\User.Domain.pdb
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\obj\Debug\netcoreapp3.1\User.Domain.csproj.AssemblyReference.cache
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\obj\Debug\netcoreapp3.1\User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\obj\Debug\netcoreapp3.1\User.Domain.AssemblyInfoInputs.cache
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\obj\Debug\netcoreapp3.1\User.Domain.AssemblyInfo.cs
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\obj\Debug\netcoreapp3.1\User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\obj\Debug\netcoreapp3.1\User.Domain.dll
+C:\Users\Phuong\source\repos\UserSolution\User.Domain\obj\Debug\netcoreapp3.1\User.Domain.pdb

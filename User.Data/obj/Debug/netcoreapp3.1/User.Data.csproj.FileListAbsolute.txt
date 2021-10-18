@@ -1,0 +1,16 @@
+C:\Users\Phuong\source\repos\UserSolution\User.Data\bin\Debug\netcoreapp3.1\User.Data.deps.json
+C:\Users\Phuong\source\repos\UserSolution\User.Data\bin\Debug\netcoreapp3.1\User.Data.runtimeconfig.json
+C:\Users\Phuong\source\repos\UserSolution\User.Data\bin\Debug\netcoreapp3.1\User.Data.runtimeconfig.dev.json
+C:\Users\Phuong\source\repos\UserSolution\User.Data\bin\Debug\netcoreapp3.1\User.Data.dll
+C:\Users\Phuong\source\repos\UserSolution\User.Data\bin\Debug\netcoreapp3.1\User.Data.pdb
+C:\Users\Phuong\source\repos\UserSolution\User.Data\bin\Debug\netcoreapp3.1\User.Domain.dll
+C:\Users\Phuong\source\repos\UserSolution\User.Data\bin\Debug\netcoreapp3.1\User.Domain.pdb
+C:\Users\Phuong\source\repos\UserSolution\User.Data\obj\Debug\netcoreapp3.1\User.Data.csproj.AssemblyReference.cache
+C:\Users\Phuong\source\repos\UserSolution\User.Data\obj\Debug\netcoreapp3.1\User.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phuong\source\repos\UserSolution\User.Data\obj\Debug\netcoreapp3.1\User.Data.AssemblyInfoInputs.cache
+C:\Users\Phuong\source\repos\UserSolution\User.Data\obj\Debug\netcoreapp3.1\User.Data.AssemblyInfo.cs
+C:\Users\Phuong\source\repos\UserSolution\User.Data\obj\Debug\netcoreapp3.1\User.Data.csproj.CoreCompileInputs.cache
+C:\Users\Phuong\source\repos\UserSolution\User.Data\obj\Debug\netcoreapp3.1\User.Data.dll
+C:\Users\Phuong\source\repos\UserSolution\User.Data\obj\Debug\netcoreapp3.1\User.Data.pdb
+C:\Users\Phuong\source\repos\UserSolution\User.Data\obj\Debug\netcoreapp3.1\User.Data.genruntimeconfig.cache
+C:\Users\Phuong\source\repos\UserSolution\User.Data\obj\Debug\netcoreapp3.1\User.Data.csproj.CopyComplete

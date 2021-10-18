@@ -1,0 +1,47 @@
+﻿@model User.App.ViewModel.GetUserVM
+
+@{
+    ViewData["Title"] = "UserDetail";
+}
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+    window.onload = function() {
+    alert("@ViewBag.Message");
+    };
+    </script>
+})
+<h1>UserDetail</h1>
+<div>
+    <h4>TestUser</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "UpdateUser", new { id = Model.Id }) |
+    <a asp-action="Index"> Back to List</a>
+</div>
+
+
+
+
+
